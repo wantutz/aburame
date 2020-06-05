@@ -1,0 +1,6 @@
+boto3
+dotmap
+pytest
+pytest-datadir
+pyyaml
+requests

@@ -1,0 +1,25 @@
+{
+    "cidr_block": "10.27.11.0/24",
+    "keypair_name": "juan-test-keypair1",
+    "security_group": {
+        "name": "juan-test-pvt-secgrp1",
+        "desc": "Private Security Group for Private Subnet",
+        "id": "null"
+    },
+    "ip_permissions": [
+        {
+            "IpProtocol": "tcp",
+            "FromPort": 22,
+            "ToPort": 22,
+            "IpRanges": [{"CidrIp": "0.0.0.0/0"}]
+        },
+        {
+            "IpProtocol": "tcp",
+            "FromPort": 22,
+            "ToPort": 22,
+            "IpRanges": [{"CidrIp": "0.0.0.0/0"}]
+        }
+    ],
+    "image_id": "ami-06fcc1f0bc2c8943f",
+    "instance_type": "t2.micro"
+}

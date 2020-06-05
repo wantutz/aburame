@@ -1,0 +1,17 @@
+{
+    "sps_create_payload": {
+        "tenantId": 1,
+        "id": 0,
+        "name": "dummy",
+        "accessControlPolicyId": 0,
+        "isEditable": "false",
+        "isDlpPolicy": "false",
+        "isAnomalyDetection": "false",
+        "malwarePolicyName": "null",
+        "malwarePolicyId": "null",
+        "threatPreventionPolicyName": "null",
+        "threatPreventionPolicyId": "null",
+        "urlfilteringPolicyName": "null",
+        "urlfilteringPolicyId": "null"
+    }
+}

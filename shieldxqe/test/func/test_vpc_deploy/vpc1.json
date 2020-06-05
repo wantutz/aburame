@@ -1,0 +1,27 @@
+{
+    "vpc_name": "test-juan-vpc1",
+    "vpc_id": "null",
+    "cidr_block": "10.27.0.0/16",
+    "public_subnet": [
+        {
+            "name": "test-juan-pub-subnet1",
+            "address": "10.27.1.0/24",
+            "id": "null"
+        }
+    ],
+    "public_route_table": {
+        "name": "null",
+        "id": "null"
+    },
+    "internet_gateway": {
+        "name": "test-juan-igw1",
+        "id": "null"
+    },
+    "private_subnet": [
+        {
+            "name": "test-juan-pvt-subnet1",
+            "address": "10.27.11.0/24",
+            "id": "null"
+        }
+    ]
+}
