@@ -1,0 +1,17 @@
+{
+    "tpp_clone_payload": {
+        "id": 0,
+        "isEditable": "true",
+        "tenantId": 1,
+        "name": "dummy",
+        "rules": [
+            "dummy"
+        ]
+    },
+    "tpp_bulk_edit_response_payload": {
+        "id": 0,
+        "responses": [
+            "dummy"
+        ]
+    }
+}

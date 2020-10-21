@@ -1,0 +1,10 @@
+{
+    "aws_cloud": {
+        "type": "AWS",
+        "name": "Juan-AWS-Cloud",
+        "accessKeyId": "AKIAW3VKII4GD2B3PN5P",
+        "secretAccessKey": "1nYPIpxo1HuYYZRFnwzTi37OJJGhJ2TBELowOMz2",
+        "aclPolicyId": "dummy",
+        "inlinePassiveInspection": "dummy"
+    }
+}

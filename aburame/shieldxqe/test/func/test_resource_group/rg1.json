@@ -1,0 +1,13 @@
+{
+    "rg1": {
+        "id": 0,
+        "name": "dummy",
+        "description": "dummy",
+        "purpose": "dummy",
+        "infraIDs": [],
+        "dynamic": "false",
+        "regex": "none",
+        "resourceType": "dummy",
+        "memberList": "dummy"
+    }
+}

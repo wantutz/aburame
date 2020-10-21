@@ -1,0 +1,35 @@
+{
+    "vpc_name": "Juan-Test-VPC-Boto3",
+    "vpc_owner": "juan@shieldx.com",
+    "vpc_id": "null",
+    "cidr_block": "10.27.0.0/16",
+    "management_subnet": [
+        {
+            "name": "Juan-Management-Subnet-Boto3",
+            "address": "10.27.1.0/24",
+            "id": "null"
+        }
+    ],
+    "backplane_subnet": [
+        {
+            "name": "Juan-Backplane-Subnet-Boto3",
+            "address": "10.27.2.0/24",
+            "id": "null"
+        }
+    ],
+    "workload_subnet": [
+        {
+            "name": "Juan-Workload-Subnet-Boto3",
+            "address": "10.27.3.0/24",
+            "id": "null"
+        }
+    ],
+    "main_route_table": {
+        "name": "Juan-Test-Main-RT-Boto3",
+        "id": "null"
+    },
+    "internet_gateway": {
+        "name": "Juan-Test-IGW-Boto3",
+        "id": "null"
+    }
+}

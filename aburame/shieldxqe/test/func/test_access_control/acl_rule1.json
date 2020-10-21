@@ -1,0 +1,6 @@
+{
+    "acl_rule1": {
+        "name": "VirtualPatchRule1", 
+        "description": "ACL Rule for Virtual Patching"
+    }
+}

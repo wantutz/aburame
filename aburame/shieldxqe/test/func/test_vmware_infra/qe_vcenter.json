@@ -1,0 +1,7 @@
+{
+    "vcenter_ip": "192.168.10.72",
+    "username": "orchestration-juan@qe-vsphere.shieldx.local",
+    "password": "admin123",
+    "esx_host": "192.168.10.47"
+}
+

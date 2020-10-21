@@ -1,0 +1,40 @@
+{
+    "aws_cloud": {
+        "type": "AWS",
+        "name": "Juan-AWS-Cloud",
+        "accessKeyId": "AKIAW3VKII4GD2B3PN5P",
+        "secretAccessKey": "1nYPIpxo1HuYYZRFnwzTi37OJJGhJ2TBELowOMz2",
+        "aclPolicyId": "dummy",
+        "inlinePassiveInspection": "dummy"
+    },
+    "aws_deployment": {
+        "cloudId": "dummy",
+        "descr": "AWS Dataplane",
+        "name": "Juan-AWS-DP",
+        "id": 0,
+        "ha": "false",
+        "deploymentSpecification": {
+            "id": 0,
+            "cloudId": "dummy",
+            "cloudid": "dummy",
+            "datastoreId": 0,
+            "locales": [],
+            "tenantNameStr": "Juan-Test-VPC",
+            "tenantId": "dummy",
+            "regionId": "dummy",
+            "availabilityZoneId": "dummy",
+            "storageIsLocal": "true",
+            "mgmtNetworkNameStr": "Juan-Management-Subnet",
+            "mgmtNetworkId": "dummy",
+            "mgmtIsDhcp": "true",
+            "backPlaneNetworkStr": "Juan-Backplane-Subnet",
+            "backPlaneNetworkId": "dummy",
+            "backPlaneIsDhcp": "true",
+            "cidrs": [
+                "10.0.40.0/24",
+                "10.0.41.0/24"
+            ]
+        },
+        "scalePolicyId": 1
+    }
+}

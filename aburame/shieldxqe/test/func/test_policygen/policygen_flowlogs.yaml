@@ -1,0 +1,11 @@
+Azure:
+  - AccountName: "TestSurb"
+    ContainerName: "Test1"
+    Key: "ASYDDF"
+    InfraName: "urbAzure"
+AWS:
+  - AccessKey: "hajhd"
+    Region: "US West (Oregon)"
+    s3BucketName: "Test2"
+    SecretKey: "152627"
+    InfraName: "SurbAWS"

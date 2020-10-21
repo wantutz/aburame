@@ -1,0 +1,7 @@
+{
+    "vcenter_ip": "192.168.10.73",
+    "username": "accurate@shieldx.test",
+    "password": "Admin@123",
+    "esx_host": "192.168.10.53"
+}
+

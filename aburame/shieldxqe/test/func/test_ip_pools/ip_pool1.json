@@ -1,0 +1,12 @@
+{
+    "ip_pool1": {
+        "cloudid": "none",
+        "name": "none",
+        "descr": "none",
+        "dns": "none",
+        "domain": "none",
+        "gateway": "none",
+        "prefix": "none",
+        "ranges": "none"
+    }
+}
