@@ -105,5 +105,5 @@ def test_get_clouds(sut_handle, shieldx_logger):
         shieldx_logger.info("---")
 
 # Sample run
-#  python3 -m pytest shieldxqe/test/func/test_cloud.py -v --setup-show -s --um <umip> --username <user> --password <passwd> -m cloud_bats
-#  python3 -m pytest shieldxqe/test/func/test_cloud.py -v --setup-show -s --um <umip> --username <user> --password <passwd> -k create_infra
+#  python3 -m pytest shieldxqe/test/func/test_deployment.py -v --setup-show -s --um <umip> --username <user> --password <passwd> -m cloud_bats
+#  python3 -m pytest shieldxqe/test/func/test_deployment.py -v --setup-show -s --um <umip> --username <user> --password <passwd> -k get_clouds
